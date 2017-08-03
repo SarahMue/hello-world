@@ -1,4 +1,4 @@
-# hello-world
+﻿# hello-world
 
 Hi, my name is Sarah.
 
@@ -7,3 +7,5 @@ Hi, my name is Sarah.
 Test: Änderung beeinflussen auch GitKraken
 
 Test2: Änderung über Github
+
+Test3: newBranch „Sarah“ of Master-Branch, only testing in „Sarah“
